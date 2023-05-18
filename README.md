@@ -2,7 +2,8 @@
 
 This is a Node.js project in which we will explore the dynamics of ethers.js.
 
-You can also run this projetc in codesandbox by launching the sandbox [here](https://codesandbox.io/s/github/laishawadhwa/Web3-Ethers-playground)
+You can also run this project in codesandbox by launching the sandbox [here](https://codesandbox.io/s/github/laishawadhwa/Web3-Ethers-playground)
+
 We'll be starting with first copying .env.local to .env and updating the following constants
 PROVIDER_NETWORK=""
 ALCHEMY_KEY=""
